@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/MultiConversor.png</file>
+        <file>img/AudioConverterApp.png</file>
+        <file>img/VideoConverterApp.png</file>
+        <file>img/ImagemConverterApp.png</file>
+        <file>img/donate.png</file>
+        <file>img/SelectArquivo.png</file>
+        <file>img/Start.png</file>
+    </qresource>
+</RCC>
